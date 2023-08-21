@@ -1,0 +1,33 @@
+.btn{
+     /* all:unset; */
+    color:white;
+    background-color:black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:8px;
+    padding: 18px 10px;
+  
+    min-width: 220px;
+    cursor:pointer;
+    
+    
+    
+    
+}
+
+.btn_white{
+    cursor:pointer;
+    color:black;
+    background-color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:8px;
+    border:1px solid black;
+    padding: 18px 10px;
+    border-radius: 5px;
+    min-width: 220px;
+    width:100%;
+
+}
